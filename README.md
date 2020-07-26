@@ -3,4 +3,4 @@ Data Science Portfolio
 
 
 # Project 1: 4Madison
-= Stanford Data Mining with R Project
+## Stanford Data Mining with R Project
